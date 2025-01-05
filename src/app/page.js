@@ -15,6 +15,20 @@ const page = () => {
       lorem ipsum dolor sit amet
       lorem ipsum dolor sit amet
       lorem ipsum dolor sit amet
+      Wellcome Home
+      lorem ipsum dolor sit amet  consectetur adipisicing elit. 
+      Wellcome Home
+      lorem ipsum dolor sit amet  consectetur adipisicing elit. 
+      Wellcome Home
+      lorem ipsum dolor sit amet  consectetur adipisicing elit. 
+      Wellcome Home
+      lorem ipsum dolor sit amet  consectetur adipisicing elit. 
+      Wellcome Home
+      lorem ipsum dolor sit amet  consectetur adipisicing elit. 
+      Wellcome Home
+      lorem ipsum dolor sit amet  consectetur adipisicing elit. 
+      Wellcome Home
+      lorem ipsum dolor sit amet  consectetur adipisicing elit. 
       
     </div>
   )
